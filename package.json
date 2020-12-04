@@ -1,0 +1,29 @@
+{
+  "name": "treinamento-testes-automatizados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biagonz/treinamento-testes-automatizados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biagonz/treinamento-testes-automatizados/issues"
+  },
+  "homepage": "https://github.com/biagonz/treinamento-testes-automatizados#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.12.7",
+    "@types/jest": "^26.0.16",
+    "@types/node": "^14.14.10",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
+  }
+}
